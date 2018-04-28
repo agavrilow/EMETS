@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EMETS Engineering</string>
+    <string name="address1">26 Leninskaya Sloboda St.</string>
+    <string name="address2">Moscow, 115280, Russia</string>
+    <string name="tel">+7(499)426-46-05</string>
+    <string name="email">info@ru-emets.com</string>
+    <string name="copyright">Copyright 2018</string>
+    <string name="site">ru-emets.com</string>
+
+</resources>

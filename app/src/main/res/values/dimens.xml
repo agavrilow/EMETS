@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fontSize1">20sp</dimen>
+    <dimen name="fontSize2">10sp</dimen>
+    <dimen name="iconSize">30dp</dimen>
+    <dimen name="iconLeftMargin">15dp</dimen>
+    <dimen name="textLeftMargin">15dp</dimen>
+    <dimen name="textTopMargin">15dp</dimen>
+    <dimen name="siteLeftMargin">18dp</dimen>
+    <dimen name="siteTopMargin">10dp</dimen>
+    <dimen name="adr2LeftMargin">120dp</dimen>
+    <dimen name="copyrightBottomMargin">5dp</dimen>
+
+
+</resources>
